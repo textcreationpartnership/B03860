@@ -1,0 +1,373 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James, Duke of York and Albany, Earl of Ulster, Lord High Admiral of England, Scotland, &amp; Ireland, Constable of Dover-castle, Lord Warden of the Cinque ports, and governor of Portsmouth, &amp;c. Instructions for the better ordering his Majesties fleet in sayling [sic].</title>
+            <author>James II, King of England, 1633-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03860</idno>
+            <idno type="STC">Wing J195B</idno>
+            <idno type="STC">ESTC R178842</idno>
+            <idno type="EEBO-CITATION">53981667</idno>
+            <idno type="OCLC">ocm 53981667</idno>
+            <idno type="VID">180255</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03860)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180255)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2824:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>James, Duke of York and Albany, Earl of Ulster, Lord High Admiral of England, Scotland, &amp; Ireland, Constable of Dover-castle, Lord Warden of the Cinque ports, and governor of Portsmouth, &amp;c. Instructions for the better ordering his Majesties fleet in sayling [sic].</title>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1, [14] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggsted by Wing.</note>
+                  <note>With marginal notes.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Sailors' handbooks --  17th century.</term>
+               <term>Seamanship --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="instructions">
+            <pb n="1" facs="tcp:180255:1" rendition="simple:additions"/>
+            <head>JAMES Duke of York and Albany, EARL OF ULSTER, Lord High ADMIRAL OF England, Scotland &amp; Ireland, CONSTABLE of DOVER-CASTLE, <hi>LORD WARDEN</hi> of the <hi>CINQ<g ref="char:V">Ʋ</g>E PORTS,</hi> And GOVERNOR of PORTSMOUTH, <hi>&amp;c.</hi>
+            </head>
+            <head type="sub">INSTRUCTIONS FOR The better Ordering His <hi>MAJESTIES</hi> FLEET IN SAYLING.</head>
+            <div n="1" type="instruction">
+               <head>INSTR. I.</head>
+               <p>
+                  <label>
+                     <hi>The Signal for</hi> Weighing by Day.</label> As ſoon as the Admiral shall loose his fore-top-ſail, and fire a gun, every ſhip in the fleet is to make ready and weigh, and being come to ſail, to follow the Chief of their Squadron.</p>
+            </div>
+            <div n="2" type="instruction">
+               <pb n="2" facs="tcp:180255:2"/>
+               <head>INSTR. II.</head>
+               <p>
+                  <label>
+                     <hi>The Signal for</hi> Weighing by Night.</label> If the Admiral ſhall weigh in the night, he will fire one gun, and hang a light on the main-top-mast-ſhrowds above the constant light in the main-top, which is to be answered by the Chief of every ſquadron, and the respective ſhips to answer by a light on their main-tops, which they are to take in when the Ad<g ref="char:EOLhyphen"/>miral takes in his from the main-top-mast-ſhrowds, and not before.</p>
+            </div>
+            <div n="3" type="instruction">
+               <head>INSTR. III.</head>
+               <p>
+                  <label>To know the Admiral and all the Flag-Ships by their <hi>Lights.</hi>
+                  </label> For the better knowing and distinguishing each Squadron, and keeping company in the night, notice is to be taken, That</p>
+               <p n="1">1. The Admiral hath three lights on his poop, and one on his main-top.</p>
+               <p n="2">2. The Vice-admiral (or he who commands in chief in the ſe<g ref="char:EOLhyphen"/>cond place) two on his poop, and one on his main-top.</p>
+               <p n="3">3. The Rere-admiral (or he who commands in chief in the third place) one on his main-top, and one on his poop.</p>
+               <p n="4">4. The Vice-admiral of each ſquadron, two on his poop.</p>
+               <p n="5">5. The Rere-admiral of each ſquadron, one on his poop; but when the whole fleet carry their lights, then the Rere-admiral of each ſquadron is to carry two lights, the one hoisted a yard above the other on the Ensign-ſtaff.</p>
+               <p n="6">6. In case of foul weather and a dark night, each ſhip is to carry a light.</p>
+            </div>
+            <div n="4" type="instruction">
+               <pb facs="tcp:180255:2"/>
+               <head>INSTR. IIII.</head>
+               <p>
+                  <label>
+                     <hi>The Signal for</hi> Cut<g ref="char:EOLhyphen"/>ting <hi>or</hi> Slipping by Day.</label> In case the Admiral would have the fleet to cut or ſlip in the day, he will fire two guns, and loose his fore-top-ſail.</p>
+               <p>
+                  <label>
+                     <hi>The Signal for</hi> Cut<g ref="char:EOLhyphen"/>ting <hi>or</hi> Slipping by Night.</label> And if he would have the fleet to cut or ſlip in the night, he will fire two guns, and hang a light in the main-top-mast-ſhrowds, above the constant light.</p>
+            </div>
+            <div n="5" type="instruction">
+               <head>INSTR. V.</head>
+               <p>
+                  <label>
+                     <hi>The Penalty, of</hi> not Sailing, and Ancho<g ref="char:EOLhyphen"/>ring, each Ship in his own Squadron.</label> That all ſhips endeavour to ſail in their own Squadrons, and if they happen to be a ſtern of their Chief, they are to make what ſail they can, and come up by them; and if any one ſhall take in any ſail, and not do his utmost to come up with the chief of his Squadron, as aforesaid; or ſhall not endeavour to ſail and anchor in his own Squadron; he ſhall be tryed at a Council of war, as a neglecter of his duty. And the Flag-officers of each Squadron are to take notice of ſuch neglect, and to give an accompt thereof at the next meeting.</p>
+               <p>Provided always,
+<list>
+                     <label>
+                        <hi>Firſt</hi> Proviſo. <hi>The Signal for</hi> Springing a Leak by Day.</label>
+                     <item> 1. That in case of ſpringing a leak by day, under ſail, or any disaster, whereby any ſhip is disabled for keeping com<g ref="char:EOLhyphen"/>pany in the day; ſuch a ſhip is to make a ſign thereof by firing two guns distinctly one after another, and to hale up his low-ſails.</item>
+                     <label>
+                        <hi>Second</hi> Proviſo. <hi>The Signal for</hi> Springing a Leak by Night.</label>
+                     <item> 2. That in case of ſpringing a leak, or other disaster, by night; ſuch a ſhip is to hang out two lights of equal height in the ſhrowds, and to fire guns.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="6" type="instruction">
+               <pb facs="tcp:180255:3"/>
+               <head>INSTR. VI.</head>
+               <p>
+                  <label>There muſt be no <hi>ſtriving for Wind, or Place,</hi> either in Sayling or Tacking.</label> In sayling or tacking, every ſhip is to keep good order, and not to strive for the wind or place one of another, upon any pretext whatsoever, whereby the least prejudice or dammage may come to any ſhip, or ſhips of the fleet: That is to say, every Captain, Lieutenant, Master, Masters-mate, or Pilot of a ſhip of les<g ref="char:EOLhyphen"/>ser rank, is to give place to one of a greater; and if they be of one rank, then the younger Captain is to give place to the elder: How<g ref="char:EOLhyphen"/>ever, no Captain, Lieutenant, Master, Masters-mate, or Pilot, is to ſtand or endeavour to take the place or wind of another ſhip, (though of a lesser rank) ſo as dammage may ensue to either ſhip, <note place="margin">The Penalty of <hi>ſtri<g ref="char:EOLhyphen"/>ving for Wind, or Place,</hi> though it be the elder Captain, or greater Ship.</note> upon pain of cashiering and losing their pay; as well the elder Captain, or Captain of a better ſhip; as the younger Captain, or Captain of a less ſhip.</p>
+               <p>But in case any Commander of a lesse ſhip, or younger Cap<g ref="char:EOLhyphen"/>tain, ſhall offer to go to windward of his ſenior, or better ſhip, when it comes to the necessity that one must give way or place to the other, then the Captain or Commander of a better ſhip complaining, the Captain, <note place="margin">
+                     <hi>The Penalty</hi> for a younger Captain, or a leſs Ship, to go to <hi>windward</hi> of an elder Captain, or a greater Ship.</note> Lieutenant, Master, Masters-mate, or Pilot, ſo offending, ſhall for every ſuch first offence, forfeit three months wages, to be paid unto ſuch persons as the Admiral or Council of war shall appoint, to be disposed of for the relief of wounded men widows, and orphans of the slain: And for every such second offence, shall forfeit four months pay: And for every such third offence, be cashier'd, and lose his or their whole wages.</p>
+            </div>
+            <div n="7" type="instruction">
+               <pb n="5" facs="tcp:180255:3"/>
+               <head>INSTR. VII.</head>
+               <p>
+                  <label>
+                     <hi>None are</hi> to go to Windward of the Chief of their Squa<g ref="char:EOLhyphen"/>dron, <hi>unleſs in Chaſe or Fight.</hi>
+                  </label> In ſayling at any time, no ſhips are to presume to go to wind<g ref="char:EOLhyphen"/>ward of the Chief of their Squadron, unless in chase or in fight; but to give due respect, to come and speak with him, as often as they can conveniently: <note place="margin">
+                     <hi>The Signal when any Ship is</hi> to bear under the Stern of the Chief of his Squadron, <hi>and</hi> ſpeak with him.</note> And if the Chief of their Squadron come by the lee, and make a weft with his Jack, then every ſhip of his Squa<g ref="char:EOLhyphen"/>dron is to bear under his stern, and speak with him.</p>
+            </div>
+            <div n="8" type="instruction">
+               <head>INSTR. VIII.</head>
+               <p>
+                  <label>
+                     <hi>The ſeveral and reſpe<g ref="char:EOLhyphen"/>ctive Signals, by which the</hi> Admiral calls any Captains, or other Commanders, on Boord.</label> As soon as the Admiral shall put abroad the Union-flag in the missen-shrowds, and fire one gun, all the Captains in the fleet are to repair on boord the Admiral.</p>
+               <p>If an Ensign be put abroad in the same place, all the Masters of ſhips are to repair on board, as aforesaid.</p>
+               <p>If the Standard be put in the same place, then the Flag-Officers only are to repair on boord, as aforesaid.</p>
+               <p>If a red flag, then all the Captains of the Admirals ſquadron are to repair on boord, as aforesaid.</p>
+               <p>If a white flag, then the Vice-admiral, and all the Captains of his ſquadron, are to go on boord, as aforesaid.</p>
+               <p>If a blew flag, then the Rere-admiral, and all the Captains of his ſquadron, are to go on boord, as aforesaid.</p>
+               <p>If a Standard be put on the Ensign-staff, the Vice-admiral and Rere-admiral of the fleet only are to go on boord.</p>
+               <p>If a white flag be put on the Ensign-staff, all the Captains of
+<pb n="6" facs="tcp:180255:4" rendition="simple:additions"/>the frigots, that carry thirty guns and upwards, are to go on boord.</p>
+               <p>If a blew flag be put there, all the Captains of the frigots, and good ſaylers, that carry under thirty guns, are to go on boord.</p>
+               <p>If a red flag be put there, all the Captains of frigots, both small and great, are to go on boord.</p>
+               <p>If the Jack, coloured with colours, be put there, all the Captains of ſhips, that are not frigots, shall go on boord.</p>
+               <p>If they are not in a capacity to go on boord themselves, they are to send their Lieutenants, or next Officers, to give an account thereof; and none are to fail upon forfeiture of one days pay, to be paid presently.</p>
+            </div>
+            <div n="9" type="instruction">
+               <head>INSTR. IX.</head>
+               <p>
+                  <label>The Signal when any Ship deſires to <hi>Speak with the Admiral.</hi>
+                  </label> Whoever has a desire to speak with the Admiral, shall ſpread a flag from the head of his top-mast down the ſhrowds, lowering his top-sail, (that it may be the better discovered) and fire one gun.</p>
+            </div>
+            <div n="10" type="instruction">
+               <head>INSTR. X.</head>
+               <p>
+                  <label>
+                     <hi>The Signal for</hi> Tack<g ref="char:EOLhyphen"/>ing by Day.</label> When the Admiral would have the sternmost ſhips to tack before him, in the day, he will fire one gun, and take in his Ensign, and put out a pendent on the ſtaff: And if he would have any particular ſhip to tack, he will fire one gun, and take in his Ensign, and put up the ſignal for speaking with that ſhip.</p>
+            </div>
+            <div n="11" type="instruction">
+               <pb n="7" facs="tcp:180255:4"/>
+               <head>INSTR. XI.</head>
+               <p>
+                  <label>
+                     <hi>The Signal for</hi> Tack<g ref="char:EOLhyphen"/>ing by Night.</label> If the fleet chance to tack in the night, the Admiral will fire one gun, and put out two lights more then he had before, at equal distance, one over another, on the poop; and each ſhip is to answer with one light more than ordinary; which light is to be kept out, till the Admirals lights be taken in.</p>
+               <p>
+                  <label>And in what <hi>Order.</hi>
+                  </label> And when the ſignals are thus given for tacking in the night, by the Admirals and Flag-ships, the sternmost and leeward-most ſhips must tack first, and so keep on with an easie ſail, till the Admiral comes a head again; and every ſhip is to keep in order in their own ſquadron.</p>
+            </div>
+            <div n="12" type="instruction">
+               <head>INSTR. XII.</head>
+               <p>
+                  <label>The Signal when any Ships <hi>loſe Company,</hi> and meet again in the <hi>Day.</hi>
+                  </label> If any shall chance to lose company in the day time, and meet again, those to windward shall <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </p>
+               <p>And those to leeward shall <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </p>
+               <p>
+                  <label>The Signal for the <hi>ſame thing</hi> by <hi>Night.</hi>
+                  </label> And if the same thing shall happen by night, that they may the better know one another, he who hales shall ask, What ſhip is that? And he who is haled, shall answer <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> And the other who first haled, shall reply <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </p>
+            </div>
+            <div n="13" type="instruction">
+               <pb n="8" facs="tcp:180255:5"/>
+               <head>INSTR. XIII.</head>
+               <p>
+                  <label>The Signal when the Admiral ſhall <hi>ſhorten Sail</hi> in the <hi>Night.</hi>
+                  </label> If in case of ſayling in the night, it overblows, so that the Admiral shall think fit to shorten ſayl, he will put out one light over the other on the poop; and each ſhip is to answer with another light, beside what they had before; it being understood, that in foul weather, and a dark night, each ſhip is to carry a light.</p>
+            </div>
+            <div n="14" type="instruction">
+               <head>INSTR. XIV.</head>
+               <p>
+                  <label>
+                     <hi>The Signal</hi> when the Admiral lyes a Trey <hi>in foul weather.</hi>
+                  </label> If by reason of foul weather it be thought fit by the Ad<g ref="char:EOLhyphen"/>miral to hand the fore-sails, and lye a trey, he will shew four lights of equal height, and the rest are to answer with the like.</p>
+               <p>
+                  <label>
+                     <hi>Signal when he</hi> lyes a Hull.</label> And if the Admiral shall at any time, think fit to lye short, or a hull, in regard of foul weather, then will he shew three lights, one over another, on the main-shrowds, or where they may be most conveniently seen.</p>
+               <p>
+                  <label>
+                     <hi>Signal</hi> when any o<g ref="char:EOLhyphen"/>ther Ship lyes a Trey <hi>or</hi> a Hull.</label> And it is to be noted, That if any of the fleet have occasion to trey or hull, when the rest of the fleet bear away, he is to fire one gun, and shew the same number of lights, after the manner here before exprest.</p>
+               <p>
+                  <label>
+                     <hi>Signal</hi> when the Ad<g ref="char:EOLhyphen"/>miral Sails (after blow<g ref="char:EOLhyphen"/>ing weather) in the Night.</label> When the Admiral shall see cause to make ſail in the night, after blowing weather, he will shoot off two guns; which are to be answered by the Vice and Rere-admirals of his own Squadron, with one gun: The Vice and Rere-admirals of the fleet, are each of them to shoot off two guns; and each of their Vice and Rere-admirals, one gun: And the Admiral will put out three lights,
+<pb n="9" facs="tcp:180255:5"/>one over the other, in the main-shrowds, according to the ſignal for shortning ſail; which being answered from every ſhip, he will take in.</p>
+            </div>
+            <div n="15" type="instruction">
+               <head>INSTR. XV.</head>
+               <p>
+                  <label>
+                     <hi>Signal when</hi> the Ad<g ref="char:EOLhyphen"/>miral alters his Courſe in the Night.</label> If the Admiral shall alter his course in the night, he will fire one gun, without alteration of lights; which is to be answered by the Chief of every Squadron.</p>
+            </div>
+            <div n="16" type="instruction">
+               <head>INSTR. XVI.</head>
+               <p>
+                  <label>The Signal whereby <hi>the Admiral makes himſelf known in the Night,</hi> when he ſees not the Fleet.</label> If in the night the Admiral should not see the fleet, and yet would know where each ſhip is, he will put out two lights of equal height, besides what he had before: And each ſhip is to answer with the like, and to get as near as conveniently they can, to the chief of their ſquadron's lights.</p>
+            </div>
+            <div n="17" type="instruction">
+               <head>INSTR. XVII.</head>
+               <p>
+                  <label>
+                     <hi>Directions for the</hi> Fire-Ships and ſmall Ships of the Admirals Diviſion, when he An<g ref="char:EOLhyphen"/>chors in the open Sea.</label> If at any time after sayling (being in the open ſea) the Admiral shall anchor, the fire-ſhips and small ſhips of his division are to anchor a fair birth to windward of him; and to ob<g ref="char:EOLhyphen"/>serve, and shift their roads, as the wind shifts, (during the time the Admiral rides there) in case the weather shall permit them.</p>
+            </div>
+            <div n="18" type="instruction">
+               <pb n="10" facs="tcp:180255:6"/>
+               <head>INSTR. XVIII.</head>
+               <p>
+                  <label>
+                     <hi>The Signal when</hi> the Admiral Anchors in the Night.</label> If the Admiral chance to anchor in the night, he will fire two guns, a small distance of time one from another; to which his Vice and Rere-admirals are to answer, each with one gun: The Vice-admiral of the fleet, with two; his Vice and Rere-admirals, each of them with one: Then the Rere-admiral of the fleet, with two; and his Vice and Rere-admirals, each of them with one: Whereby the chief ſhips of each ſquadron may have convenient time to birth themselves, and the whole fleet may have timely notice to dispose of themselves near their respective flags; so that they may receive no prejudice one by another: And each ſhip is to an<g ref="char:EOLhyphen"/>swer with two lights.</p>
+            </div>
+            <div n="19" type="instruction">
+               <head>INSTR. XIX.</head>
+               <p>
+                  <label>The Signal when any <hi>diſcovers Land,</hi> or <hi>Danger</hi> in the <hi>Night.</hi>
+                  </label> If in the night any one sees land or any danger, he who first discovers it, is to fire one gun, and then to shew as many lights as he can, and to bear away or tack from it.</p>
+            </div>
+            <div n="20" type="instruction">
+               <head>INSTR. XX.</head>
+               <p>
+                  <label>
+                     <hi>The Signals</hi> in a Fog.</label> If it grow thick and foggy weather, and there be ſea-room e<g ref="char:EOLhyphen"/>nough, the Admiral will hale up his low-sails, and shoot every hour a gun; which the flag-officers of the Admirals own ſquadron, are first to answer; afterwards, the Vice-admiral, and his flag-officers; then the Rere-admiral, and his flag-officers; and all
+<pb n="11" facs="tcp:180255:6"/>the rest of the fleet are to answer, with firing of musquets, beating of drums, and sounding of trumpets.</p>
+               <p>
+                  <label>Signal for <hi>Sailing</hi> in a <hi>Fog.</hi>
+                  </label> If the Admiral make ſail in a fog, he will fire three guns one after another, and one every glass; which is to be answered by the chief ſhips of each ſquadron; and the rest are to beat drums, shoot off musquets, and sound trumpets, as before.</p>
+               <p>
+                  <label>Signal for <hi>Tacking</hi> in a <hi>Fog.</hi>
+                  </label> If the Admiral shall tack in a fog, or thick weather, so that the Admiral cannot discern the whole fleet, he will fire four guns immediately one after another; and the chief flags of the other ſquadrons, are to answer, each of them with three; and to keep firing, as aforesaid.</p>
+               <p>
+                  <label>Signal for <hi>Anchoring</hi> in a <hi>Fog.</hi>
+                  </label> If the Admiral shall anchor in a fog, he will do the same thing, as when he anchors in the night; for which see Instr. 18.</p>
+            </div>
+            <div n="21" type="instruction">
+               <head>INSTR. XXI.</head>
+               <p>
+                  <label>
+                     <hi>When the Captains, &amp;c.</hi> come into any Port, <hi>&amp;c. they are to</hi> ſupply themſelves with all Neceſſaries.</label> When the Captains, and other Officers of the fleet, shall come into any port or harbour, they shall endeavour to supply them<g ref="char:EOLhyphen"/>selves with water and ballast, and whatever else shall be necessary for ſayling and fitting their ſhips, and enabling them for present service. <note place="margin">And to make and to keep their Ships <hi>clean</hi> and <hi>ſweet,</hi> eſpecially <hi>be<g ref="char:EOLhyphen"/>tween Decks.</hi>
+                  </note> They are likewise to be very careful to wash and make clean their ſhips, as often as they shall have opportunity, especially between decks and in the hold; to which end they shall hoist up all beef, pork, and beer-casks, on the upper deck, and shake them there, that so no stench may go down into the hold.</p>
+            </div>
+            <div n="22" type="instruction">
+               <pb n="12" facs="tcp:180255:7"/>
+               <head>INSTR. XXII.</head>
+               <p>
+                  <label>If <hi>a ſtrange Ship</hi> come into the Fleet, the Ships that are neareſt, are to know what ſhe is.</label> In case any ſhip or vessel, not of His Majesties fleet, ſhall at any time come into the fleet, and make towards the Ad<g ref="char:EOLhyphen"/>miral, or lye driving in the fleet, or at anchor; those ſhips of His Majesties fleet, which are nearest to such a ſhip or vessel, are to send on boord the said ſhip, to know what she is, and to give an ac<g ref="char:EOLhyphen"/>count thereof unto the Admiral; not permitting such a ſhip or vessel to come to the Admiral, unexamined.</p>
+            </div>
+            <div n="23" type="instruction">
+               <head>INSTR. XXIII.</head>
+               <p>
+                  <label>
+                     <hi>If the Admiral fire at a ſtrange Ship,</hi> the next Ship (under the Third Rate) is to fire at her, and bring her to the Admiral.</label> When the Admiral being at anchor, shall fire a gun at any ſhip or vessel, approaching, passing by, or standing away from him, or at anchor; any ſhip of the fleet, which shall then happen to be nearest to that ſhip or vessel, at which the Admiral shall so fire, shall also fire at, and endeavour to ſpeak with the said ſhip, and bring the Commander thereof to the Admiral: But if such a ſhip shall decline to be so ſpoken with, and the Admiral shall think fit to fire three times at her, those ſhips of His Majesties fleet that are nearest (under the third rate) shall im<g ref="char:EOLhyphen"/>mediately slip or cut their Cables, and use their best endeavour to bring such a ſhip or vessel to the Admiral.</p>
+            </div>
+            <div n="24" type="instruction">
+               <pb n="13" facs="tcp:180255:7"/>
+               <head>INSTR. XXIV.</head>
+               <p>
+                  <label>The Signal for <hi>the Admiral of the White Squadron</hi> to ſend out Ships to <hi>Chaſe.</hi>
+                  </label> When the Admiral shall put forth a flag striped with red and white on the fore-top-mast-head, the Admiral of the white Squadron shall send out ſhips to chase; when on the missen-top-mast-head, <note place="margin">Signal for <hi>the Admi<g ref="char:EOLhyphen"/>ral of the Blew</hi> to ſend out Ships to <hi>Chaſe.</hi>
+                  </note> the Admiral of the blew shall send out ſhips to chase.</p>
+               <p>
+                  <label>The Signal for <hi>any Ship of the Admiral's Diviſion</hi> to <hi>Chaſe,</hi> excepting his Vice and Rere-Admirals.</label> If the Admiral would have any particular ſhip of his own division (excepting his Vice and Rere-admiral) to chase, he will put a flag, striped red and white, on that place, where the ordinary ſignal for ſpeaking with that particular ſhip, uses to be a pendent.</p>
+               <p>
+                  <label>The Signal for <hi>the Vice-Admiral of the Red</hi> to ſend out Ships to <hi>Chaſe.</hi>
+                  </label> If a flag striped red and white be ſpread upon the main-top-mast, under the ſtandard, the Vice-admiral of the red is to send out ſhips to chase.</p>
+               <p>
+                  <label>The Signal for <hi>the Rere-Admiral of the Red</hi> to ſend out Ships to <hi>Chaſe.</hi>
+                  </label> If the same flag be hoisted on the Ensign-staff, the Rere-admiral of the red is to send out ſhips to chase.</p>
+            </div>
+            <div n="25" type="instruction">
+               <head>INSTR. XXV.</head>
+               <p>
+                  <label>The Signal for giving over <hi>Chaſe.</hi>
+                  </label> Upon firing one gun, and lowering the main-top-sail of the Admiral, or Chief of the Squadron, every ſhip in chase shall give over his chase: And when the Admiral doth it, the chief of the Squadron next to him or them, ought to do the like, whereby the ſignal may be the more apparent.</p>
+            </div>
+            <div n="26" type="instruction">
+               <pb n="14" facs="tcp:180255:8" rendition="simple:additions"/>
+               <head>INSTR. XXVI.</head>
+               <p>
+                  <label>
+                     <hi>The Signals in caſe of</hi> diſcovering another Fleet by Day.</label> If any one in the day time chance to see a ſhip or ſhips, more than His Majesties fleet, he is to put abroad his Ensign, and there to keep it till the Admiral's is out, and then to strike it as many times as he sees ſhips, and to stand with them, that so the Admiral may know which way they are, and how many; but in case they be at such a distance, that the Ensign cannot be well discovered, then he is to lay up his head towards the ſhips or fleet which he so descrys, and to brayl up his low-sails, and to continue hoisting and lowering his top-sails, and making a weft with his top-gallant-sail (if he has any) until the Admiral answers by lowering his top-sails, and making a weft with his top-gallant-ſails.</p>
+               <p>
+                  <label>
+                     <hi>The Signal in caſe of</hi> diſcovering a Fleet by Night.</label> If by night, the ſignal is by firing of guns, and making of many false fires, and putting out a light in the main-top, and three on the poop, steering after them, and shooting off guns; unless the Admiral keep out his lights, and steer away another course, and fire one gun, two, or three, to call them off; in which case, they are to leave the ſhips and fleet so descryed, and follow the Ad<g ref="char:EOLhyphen"/>miral.</p>
+               <pb facs="tcp:180255:8"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
